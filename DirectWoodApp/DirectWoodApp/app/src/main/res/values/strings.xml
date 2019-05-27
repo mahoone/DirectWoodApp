@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DirectWood</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Jobs</string>
+    <string name="tab_text_2">Customers</string>
+    <string name="title_activity_jobs">jobs</string>
+</resources>
